@@ -20,7 +20,7 @@ limitations under the License.
 
 # Min Safe Integer
 
-[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] [![dependencies][dependencies-image]][dependencies-url]
+[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] <!-- [![dependencies][dependencies-image]][dependencies-url] -->
 
 > Minimum safe [half-precision floating-point][half-precision-floating-point-format] integer.
 
@@ -94,9 +94,9 @@ for ( i = 0; i < 100; i++ ) {
 
 ## See Also
 
--   [`@stdlib/constants/float16/max-safe-integer`][@stdlib/constants/float16/max-safe-integer]: maximum safe half-precision floating-point integer.
--   [`@stdlib/constants/float32/min-safe-integer`][@stdlib/constants/float32/min-safe-integer]: minimum safe single-precision floating-point integer.
--   [`@stdlib/constants/float64/min-safe-integer`][@stdlib/constants/float64/min-safe-integer]: minimum safe double-precision floating-point integer.
+-   <span class="package-name">[`@stdlib/constants/float16/max-safe-integer`][@stdlib/constants/float16/max-safe-integer]</span><span class="delimiter">: </span><span class="description">maximum safe half-precision floating-point integer.</span>
+-   <span class="package-name">[`@stdlib/constants/float32/min-safe-integer`][@stdlib/constants/float32/min-safe-integer]</span><span class="delimiter">: </span><span class="description">minimum safe single-precision floating-point integer.</span>
+-   <span class="package-name">[`@stdlib/constants/float64/min-safe-integer`][@stdlib/constants/float64/min-safe-integer]</span><span class="delimiter">: </span><span class="description">minimum safe double-precision floating-point integer.</span>
 
 </section>
 
@@ -147,8 +147,12 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/constants-float16-min-safe-integer/main.svg
 [coverage-url]: https://codecov.io/github/stdlib-js/constants-float16-min-safe-integer?branch=main
 
+<!--
+
 [dependencies-image]: https://img.shields.io/david/stdlib-js/constants-float16-min-safe-integer.svg
 [dependencies-url]: https://david-dm.org/stdlib-js/constants-float16-min-safe-integer/main
+
+-->
 
 [chat-image]: https://img.shields.io/gitter/room/stdlib-js/stdlib.svg
 [chat-url]: https://gitter.im/stdlib-js/stdlib/
