@@ -1,0 +1,39 @@
+{
+  "name": "@stdlib/constants-float16-min-safe-integer",
+  "version": "0.0.0",
+  "description": "Minimum safe half-precision floating-point integer.",
+  "license": "Apache-2.0",
+  "type": "module",
+  "main": "./index.mjs",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/constants-float16-min-safe-integer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdmath",
+    "constant",
+    "const",
+    "min",
+    "minimum",
+    "safe",
+    "integer",
+    "half",
+    "floating",
+    "point",
+    "floating-point",
+    "float",
+    "float16",
+    "16bit",
+    "16-bit",
+    "ieee754"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
