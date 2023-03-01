@@ -38,12 +38,12 @@ C -->|bundle| D[esm];
 C -->|bundle| E[deno];
 C -->|bundle| F[umd];
 
-click A href "https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float16/min-safe-integer"
-click B href "https://github.com/stdlib-js/constants-float16-min-safe-integer/tree/main"
-click C href "https://github.com/stdlib-js/constants-float16-min-safe-integer/tree/production"
-click D href "https://github.com/stdlib-js/constants-float16-min-safe-integer/tree/esm"
-click E href "https://github.com/stdlib-js/constants-float16-min-safe-integer/tree/deno"
-click F href "https://github.com/stdlib-js/constants-float16-min-safe-integer/tree/umd"
+%% click A href "https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float16/min-safe-integer"
+%% click B href "https://github.com/stdlib-js/constants-float16-min-safe-integer/tree/main"
+%% click C href "https://github.com/stdlib-js/constants-float16-min-safe-integer/tree/production"
+%% click D href "https://github.com/stdlib-js/constants-float16-min-safe-integer/tree/esm"
+%% click E href "https://github.com/stdlib-js/constants-float16-min-safe-integer/tree/deno"
+%% click F href "https://github.com/stdlib-js/constants-float16-min-safe-integer/tree/umd"
 ```
 
 [stdlib-url]: https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float16/min-safe-integer

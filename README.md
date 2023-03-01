@@ -102,9 +102,9 @@ for ( i = 0; i < 100; i++ ) {
 
 ## See Also
 
--   <span class="package-name">[`@stdlib/constants/float16/max-safe-integer`][@stdlib/constants/float16/max-safe-integer]</span><span class="delimiter">: </span><span class="description">maximum safe half-precision floating-point integer.</span>
--   <span class="package-name">[`@stdlib/constants/float32/min-safe-integer`][@stdlib/constants/float32/min-safe-integer]</span><span class="delimiter">: </span><span class="description">minimum safe single-precision floating-point integer.</span>
--   <span class="package-name">[`@stdlib/constants/float64/min-safe-integer`][@stdlib/constants/float64/min-safe-integer]</span><span class="delimiter">: </span><span class="description">minimum safe double-precision floating-point integer.</span>
+-   <span class="package-name">[`@stdlib/constants-float16/max-safe-integer`][@stdlib/constants/float16/max-safe-integer]</span><span class="delimiter">: </span><span class="description">maximum safe half-precision floating-point integer.</span>
+-   <span class="package-name">[`@stdlib/constants-float32/min-safe-integer`][@stdlib/constants/float32/min-safe-integer]</span><span class="delimiter">: </span><span class="description">minimum safe single-precision floating-point integer.</span>
+-   <span class="package-name">[`@stdlib/constants-float64/min-safe-integer`][@stdlib/constants/float64/min-safe-integer]</span><span class="delimiter">: </span><span class="description">minimum safe double-precision floating-point integer.</span>
 
 </section>
 
