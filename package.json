@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/constants-float16-min-safe-integer",
-  "version": "0.0.7",
+  "version": "0.1.0",
   "description": "Minimum safe half-precision floating-point integer.",
   "license": "Apache-2.0",
   "author": {
@@ -37,7 +37,7 @@
   "dependencies": {},
   "devDependencies": {
     "@stdlib/math-base-special-pow": "^0.0.7",
-    "@stdlib/math-base-special-round": "^0.0.7",
+    "@stdlib/math-base-special-round": "^0.1.0",
     "@stdlib/random-base-randu": "^0.0.8",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",
