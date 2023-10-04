@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import FLOAT16_MIN_SAFE_INTEGER from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float16-min-safe-integer@deno/mod.js';
+import FLOAT16_MIN_SAFE_INTEGER from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float16-min-safe-integer@v0.1.1-deno/mod.js';
 ```
 
 #### FLOAT16_MIN_SAFE_INTEGER
@@ -68,7 +68,7 @@ var bool = ( FLOAT16_MIN_SAFE_INTEGER === -2047 );
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
 import round from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-round@deno/mod.js';
 import pow from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-pow@deno/mod.js';
-import FLOAT16_MIN_SAFE_INTEGER from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float16-min-safe-integer@deno/mod.js';
+import FLOAT16_MIN_SAFE_INTEGER from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float16-min-safe-integer@v0.1.1-deno/mod.js';
 
 var min;
 var x;
