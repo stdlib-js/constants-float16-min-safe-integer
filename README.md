@@ -44,6 +44,11 @@ limitations under the License.
 To use in Observable,
 
 ```javascript
+FLOAT16_MIN_SAFE_INTEGER = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float16-min-safe-integer@umd/browser.js' )
+```
+The previous example will load the latest bundled code from the umd branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/constants-float16-min-safe-integer/tags). For example,
+
+```javascript
 FLOAT16_MIN_SAFE_INTEGER = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float16-min-safe-integer@v0.1.1-umd/browser.js' )
 ```
 
@@ -56,7 +61,7 @@ var FLOAT16_MIN_SAFE_INTEGER = require( 'path/to/vendor/umd/constants-float16-mi
 To include the bundle in a webpage,
 
 ```html
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/constants-float16-min-safe-integer@v0.1.1-umd/browser.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/constants-float16-min-safe-integer@umd/browser.js"></script>
 ```
 
 If no recognized module system is present, access bundle contents via the global scope:
@@ -95,7 +100,7 @@ var bool = ( FLOAT16_MIN_SAFE_INTEGER === -2047 );
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@umd/browser.js"></script>
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-round@umd/browser.js"></script>
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-pow@umd/browser.js"></script>
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/constants-float16-min-safe-integer@v0.1.1-umd/browser.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/constants-float16-min-safe-integer@umd/browser.js"></script>
 <script type="text/javascript">
 (function () {
 
