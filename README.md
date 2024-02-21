@@ -42,6 +42,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import FLOAT16_MIN_SAFE_INTEGER from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float16-min-safe-integer@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/constants-float16-min-safe-integer/tags). For example,
+
+```javascript
 import FLOAT16_MIN_SAFE_INTEGER from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float16-min-safe-integer@v0.2.1-esm/index.mjs';
 ```
 
@@ -73,7 +78,7 @@ var bool = ( FLOAT16_MIN_SAFE_INTEGER === -2047 );
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
 import round from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-round@esm/index.mjs';
 import pow from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-pow@esm/index.mjs';
-import FLOAT16_MIN_SAFE_INTEGER from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float16-min-safe-integer@v0.2.1-esm/index.mjs';
+import FLOAT16_MIN_SAFE_INTEGER from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float16-min-safe-integer@esm/index.mjs';
 
 var min;
 var x;
